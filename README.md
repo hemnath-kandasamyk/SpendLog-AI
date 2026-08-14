@@ -30,39 +30,25 @@ A production-grade, futuristic AI-powered FinTech expense tracker and financial 
 
 ---
 
-## 🎨 Architectural Overview
+<h2 align="center">🏗️ System Architecture</h2>
 
-The application is architected around a strict **Two-Layer Separation**:
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/hemnath-kandasamyk/SpendLog-AI/refs/heads/main/docs/Architecture_Diagram.png"
+    alt="SpendLog AI Architecture Diagram"
+    width="900"
+  />
+</p>
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│                          UI LAYER                           │
-│  - Pages: Dashboard, Transactions, Analytics, Budgets, etc. │
-│  - Components: Modals, Toasts, Charts, Sidebar, Navbar      │
-│  - DOM Event Handlers & Local Reactive Renders             │
-└──────────────────────────────┬──────────────────────────────┘
-                               │ Dispatches Actions / Reads State
-                               ▼
-┌─────────────────────────────────────────────────────────────┐
-│                    CENTRAL STATE STORE                      │
-│  - LocalStorage Persistence (`spendlog_state`)              │
-│  - Reactive pub/sub subscriptions                           │
-│  - Computed Financial Summaries                             │
-└──────────────────────────────┬──────────────────────────────┘
-                               │ Invokes Async Methods
-                               ▼
-┌─────────────────────────────────────────────────────────────┐
-│                  DATA / ACTION SERVICE LAYER                │
-│  - expenseService.js                                        │
-│  - budgetService.js                                         │
-│  - goalService.js                                           │
-│  - analyticsService.js                                      │
-│  - agentService.js                                          │
-└──────────────────────────────┬──────────────────────────────┘
-                               │ (Future Backend API Integration)
-                               ▼
-                   REST / GraphQL Backend API
-```
+<h2 align="center">🔄 Application Flow</h2>
+
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/hemnath-kandasamyk/SpendLog-AI/refs/heads/main/docs/Flow_Diagram.png"
+    alt="SpendLog AI Application Flow Diagram"
+    width="900"
+  />
+</p>
 
 ---
 
