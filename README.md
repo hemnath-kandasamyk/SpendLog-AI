@@ -1,9 +1,29 @@
-# SpendLog AI — Agentic Expense Tracker Frontend
+# 💰 SpendLog AI — Intelligent Expense Tracker & Financial Intelligence Dashboard
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hemnath-kandasamyk/SpendLog-AI/refs/heads/main/src/assets/images/spendlog_ai_logo_1786685940362.jpg" alt="SpendLog AI Logo" width="150">
+</p>
 
 <p align="center">
   <a href="https://spend-log-ai.vercel.app/#login" target="_blank">
     <strong>🚀 View SpendLog AI Live</strong>
   </a>
+</p>
+
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="HTML5"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="CSS3"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="45" alt="Vite"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="45" alt="Vercel"/>
 </p>
 
 A production-grade, futuristic AI-powered FinTech expense tracker and financial intelligence dashboard built strictly with **Vanilla JavaScript (ES Modules), HTML5, and Modular CSS3** (No frontend framework dependencies).
