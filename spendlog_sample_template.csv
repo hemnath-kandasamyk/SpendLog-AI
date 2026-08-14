@@ -1,0 +1,11 @@
+date,title,category,amount,type,payment_method,description
+2026-03-01,Monthly Salary,Income,65000,income,Net Banking,Primary paycheck
+2026-03-02,Whole Foods Groceries,Groceries,3450,expense,Credit Card,Weekly essentials
+2026-03-03,Swiggy Gourmet,Food,680,expense,UPI,Dinner order
+2026-03-05,Uber Ride,Transport,420,expense,UPI,Commute to office
+2026-03-07,Electricity Bill,Utilities,1850,expense,Auto Debit,Monthly utility payment
+2026-03-10,Amazon Order,Shopping,4200,expense,Credit Card,Office accessories
+2026-03-12,Netflix Subscription,Entertainment,649,expense,Credit Card,Monthly plan
+2026-03-15,Starbucks Coffee,Food,390,expense,UPI,Coffee meeting
+2026-03-18,Pharmacy & Meds,Healthcare,850,expense,Debit Card,Vitamins and prescription
+2026-03-20,Freelance Consulting,Income,15000,income,Net Banking,Client project bonus

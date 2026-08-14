@@ -1,0 +1,254 @@
+date,title,category,amount,type,payment_method,description
+2026-03-20,Amusement Park,Entertainment,1845,expense,Wallet,Concert night
+2026-01-26,Cash Withdrawal,Other,4605,expense,Debit Card,Cash withdrawal
+2026-05-12,Footwear Purchase,Shopping,926,expense,UPI,Weekend shopping
+2026-01-04,Service Charge,Other,371,expense,Bank Transfer,Cash withdrawal
+2026-03-27,Bus Pass,Transport,1982,expense,Cash,Ride home
+2026-06-19,Skincare Purchase,Personal Care,156,expense,UPI,Salon appointment
+2026-06-27,Online Course,Education,7844,expense,Debit Card,Exam fee payment
+2025-11-03,Laptop Accessory,Electronics,27213,expense,Net Banking,Accessory replacement
+2025-10-21,Mobile Accessory,Electronics,29766,expense,UPI,Gadget purchase
+2026-07-30,Supermarket Purchase,Groceries,2547,expense,UPI,Monthly groceries
+2026-07-14,Vegetable Market,Groceries,982,expense,Cash,Vegetables and essentials
+2026-05-19,Home Decor,Shopping,22463,expense,Debit Card,New outfit
+2026-06-13,Grocery Store,Groceries,3783,expense,Cash,Vegetables and essentials
+2025-11-10,Contract Work Payment,Freelance,41806,income,Net Banking,Freelance project payment
+2026-06-24,App Subscription,Subscriptions,1064,expense,UPI,Annual plan renewal
+2026-04-30,Clothing Store,Shopping,19445,expense,UPI,Gift for friend
+2026-05-09,Monthly Salary,Salary,71889,income,Bank Transfer,Monthly salary credited
+2025-12-14,Tea Stall,Food,1595,expense,Net Banking,Quick snack
+2026-06-10,Monthly Groceries,Groceries,1412,expense,Bank Transfer,Grocery shopping
+2026-07-04,Miscellaneous Purchase,Other,4316,expense,Credit Card,Miscellaneous expense
+2025-12-06,Client Payment,Freelance,30813,income,Bank Transfer,Client payment received
+2026-04-09,House Rent Payment,Rent,43637,expense,Debit Card,Monthly house rent
+2026-05-08,Gadget Purchase,Electronics,3295,expense,Cash,Gadget purchase
+2025-11-12,Life Insurance Premium,Insurance,13605,expense,Credit Card,Premium payment
+2026-01-01,House Rent Payment,Rent,44094,expense,UPI,Rent payment
+2026-06-18,Ride Share,Transport,1823,expense,Cash,Ride home
+2026-05-31,News Subscription,Subscriptions,373,expense,UPI,Monthly subscription
+2026-04-17,Contract Work Payment,Freelance,17690,income,Net Banking,Client payment received
+2026-03-06,Fast Food Order,Food,1446,expense,UPI,Lunch
+2026-03-06,Vegetable Market,Groceries,2349,expense,Credit Card,Monthly groceries
+2026-02-12,Vehicle Insurance,Insurance,13034,expense,UPI,Policy renewal
+2026-06-08,Insurance Renewal,Insurance,7014,expense,UPI,Policy renewal
+2026-04-07,News Subscription,Subscriptions,113,expense,UPI,Annual plan renewal
+2026-07-19,Mobile Recharge,Bills,6266,expense,UPI,Utility bill payment
+2026-02-06,Gadget Purchase,Electronics,25914,expense,UPI,Accessory replacement
+2026-03-20,Reimbursement,Other,5797,income,Bank Transfer,Cashback received
+2026-03-31,Mall Shopping,Shopping,12826,expense,UPI,Weekend shopping
+2026-03-23,Monthly Salary,Salary,28097,income,Bank Transfer,Monthly salary credited
+2025-10-19,Streaming Subscription,Subscriptions,787,expense,Bank Transfer,Monthly subscription
+2025-10-21,Monthly Rent,Rent,16891,expense,Debit Card,Monthly house rent
+2026-04-10,Streaming Subscription,Subscriptions,1066,expense,Debit Card,Annual plan renewal
+2026-02-08,Personal Trainer,Fitness,4032,expense,UPI,Fitness class
+2025-11-09,Contract Work Payment,Freelance,16895,income,Bank Transfer,Client payment received
+2026-04-16,App Subscription,Subscriptions,732,expense,UPI,Monthly subscription
+2026-01-22,Service Charge,Other,4393,expense,UPI,Cash withdrawal
+2026-02-28,Vegetable Market,Groceries,1169,expense,Cash,Grocery shopping
+2026-04-20,Doctor Consultation,Healthcare,12077,expense,UPI,Doctor visit
+2026-05-13,Restaurant Dinner,Food,2004,expense,UPI,Office lunch
+2026-01-10,Insurance Renewal,Insurance,21581,expense,UPI,Premium payment
+2026-05-26,Society Maintenance,Utilities,2740,expense,Bank Transfer,Monthly maintenance
+2026-03-11,Monthly Salary,Salary,101124,income,UPI,Monthly salary credited
+2026-07-25,Monthly Salary,Salary,35368,income,UPI,Monthly salary credited
+2026-06-02,Cloud Storage Plan,Subscriptions,933,expense,Credit Card,Monthly subscription
+2026-07-18,Monthly Rent,Rent,33927,expense,Wallet,Rent payment
+2026-06-28,Footwear Purchase,Shopping,927,expense,UPI,New outfit
+2026-03-06,Health Insurance Premium,Insurance,15975,expense,Bank Transfer,Policy renewal
+2026-08-12,App Subscription,Subscriptions,123,expense,UPI,Monthly subscription
+2026-02-10,Maintenance Charge,Utilities,3096,expense,UPI,Internet bill payment
+2025-10-23,Cashback Received,Other,11973,income,Net Banking,Cashback received
+2026-03-15,Monthly Salary,Salary,100334,income,UPI,Monthly salary credited
+2025-12-17,Cashback Received,Other,14366,income,UPI,Bonus credited
+2026-03-12,Mobile Accessory,Electronics,8262,expense,UPI,Gadget purchase
+2026-07-04,Gift Received,Other,5820,income,Bank Transfer,Bonus credited
+2026-04-15,Doctor Consultation,Healthcare,1742,expense,Cash,Medical purchase
+2026-04-05,Home Decor,Shopping,4610,expense,Cash,Online order
+2025-10-16,Vehicle Insurance,Insurance,18019,expense,UPI,Policy renewal
+2025-12-20,Food Delivery,Food,1038,expense,UPI,Dinner with friends
+2026-01-08,Medical Purchase,Healthcare,9576,expense,UPI,Medical purchase
+2026-04-08,Dividend Received,Investment,1907,income,UPI,Dividend payout
+2026-06-29,Contract Work Payment,Freelance,2893,income,UPI,Client payment received
+2026-02-28,Monthly Salary,Salary,58157,income,Bank Transfer,Monthly salary credited
+2025-11-08,Health Insurance Premium,Insurance,21395,expense,Wallet,Premium payment
+2026-04-04,Cashback Received,Other,14584,income,Bank Transfer,Cashback received
+2026-06-08,Bakery,Food,2373,expense,UPI,Quick snack
+2026-04-14,News Subscription,Subscriptions,576,expense,Cash,Monthly subscription
+2025-12-14,Bike Service,Transport,327,expense,UPI,Fuel for bike
+2026-01-10,Refund Received,Other,12617,income,Bank Transfer,Bonus credited
+2025-10-29,Salon Visit,Personal Care,546,expense,Bank Transfer,Self-care purchase
+2026-08-12,Bus Pass,Transport,3684,expense,UPI,Cab to office
+2026-03-17,Restaurant Dinner,Food,2594,expense,Credit Card,Weekend meal
+2026-06-27,Monthly Groceries,Groceries,2871,expense,Cash,Vegetables and essentials
+2026-01-03,Investment Return,Investment,3643,income,UPI,Dividend payout
+2026-04-11,Cloud Storage Plan,Subscriptions,1005,expense,UPI,Annual plan renewal
+2026-07-12,Freelance Payment,Freelance,36306,income,Bank Transfer,Freelance project payment
+2025-12-24,Internet Bill,Utilities,2557,expense,Bank Transfer,Internet bill payment
+2026-05-22,News Subscription,Subscriptions,1642,expense,UPI,Monthly subscription
+2026-01-24,Mutual Fund Return,Investment,29970,income,Bank Transfer,Dividend payout
+2026-02-09,Monthly Rent,Rent,8284,expense,Credit Card,Rent payment
+2025-12-09,Parking Fee,Transport,3889,expense,UPI,Ride home
+2025-10-18,Society Maintenance,Utilities,5595,expense,UPI,Internet bill payment
+2026-04-13,Stock Sale Return,Investment,25846,income,UPI,Dividend payout
+2026-04-12,Gaming Purchase,Entertainment,4012,expense,UPI,Game purchase
+2026-04-21,Streaming Subscription,Subscriptions,1350,expense,Credit Card,Annual plan renewal
+2025-11-04,Health Checkup,Healthcare,5922,expense,Bank Transfer,Health test
+2025-11-24,Broadband Recharge,Utilities,4022,expense,Bank Transfer,Internet bill payment
+2025-12-09,Coffee Shop,Food,1451,expense,UPI,Lunch
+2026-01-28,House Rent Payment,Rent,41821,expense,Cash,Monthly house rent
+2026-07-16,Cash Withdrawal,Other,1678,expense,Bank Transfer,One-off purchase
+2026-08-14,Medical Purchase,Healthcare,15382,expense,Debit Card,Doctor visit
+2025-12-31,Bike Service,Transport,4575,expense,UPI,Fuel for bike
+2025-10-28,Maintenance Charge,Utilities,3581,expense,UPI,Monthly maintenance
+2026-06-03,Maintenance Charge,Utilities,3073,expense,UPI,Monthly maintenance
+2026-06-19,News Subscription,Subscriptions,1727,expense,Debit Card,Annual plan renewal
+2026-01-22,Laptop Accessory,Electronics,33880,expense,Credit Card,Accessory replacement
+2026-05-27,Online Course,Education,24536,expense,UPI,Books for semester
+2026-06-02,Water Bill,Bills,3337,expense,UPI,Utility bill payment
+2025-11-18,Streaming Subscription,Subscriptions,543,expense,Bank Transfer,Annual plan renewal
+2026-08-12,Book Purchase,Education,16661,expense,Credit Card,Course enrollment
+2026-04-16,Health Insurance Premium,Insurance,8888,expense,Wallet,Policy renewal
+2026-05-18,Insurance Renewal,Insurance,4574,expense,Net Banking,Policy renewal
+2026-06-27,Online Course,Education,2261,expense,UPI,Books for semester
+2026-03-23,Skincare Purchase,Personal Care,2283,expense,UPI,Salon appointment
+2026-08-02,Streaming Subscription,Subscriptions,639,expense,Bank Transfer,Annual plan renewal
+2026-04-17,Monthly Rent,Rent,43962,expense,UPI,Rent payment
+2025-12-19,House Rent Payment,Rent,9041,expense,Cash,Monthly house rent
+2026-04-12,Life Insurance Premium,Insurance,2070,expense,Bank Transfer,Premium payment
+2026-01-01,Monthly Salary,Salary,119658,income,Bank Transfer,Monthly salary credited
+2026-04-29,Auto Rickshaw,Transport,2882,expense,Net Banking,Daily commute
+2026-01-10,Contract Work Payment,Freelance,43224,income,UPI,Client payment received
+2026-05-03,Streaming Subscription,Subscriptions,927,expense,UPI,Monthly subscription
+2026-02-16,Monthly Salary,Salary,28162,income,Bank Transfer,Monthly salary credited
+2026-06-27,Music Subscription,Subscriptions,475,expense,UPI,Annual plan renewal
+2026-02-13,Doctor Consultation,Healthcare,19698,expense,Credit Card,Doctor visit
+2026-04-21,Footwear Purchase,Shopping,10553,expense,Credit Card,Gift for friend
+2025-12-26,Insurance Renewal,Insurance,7742,expense,UPI,Premium payment
+2026-08-05,Online Course,Education,17879,expense,UPI,Exam fee payment
+2026-02-07,Mobile Recharge,Bills,9476,expense,Debit Card,Utility bill payment
+2026-03-16,Food Delivery,Food,1591,expense,Net Banking,Dinner with friends
+2025-12-11,Society Maintenance,Utilities,1639,expense,UPI,Internet bill payment
+2026-06-03,News Subscription,Subscriptions,1657,expense,Credit Card,Annual plan renewal
+2026-04-04,Miscellaneous Purchase,Other,2928,expense,Wallet,One-off purchase
+2026-07-05,Electronics Store,Electronics,5765,expense,Net Banking,Gadget purchase
+2026-02-23,Health Insurance Premium,Insurance,10765,expense,UPI,Premium payment
+2025-12-22,Music Subscription,Subscriptions,1363,expense,Credit Card,Monthly subscription
+2025-12-04,Service Charge,Other,3944,expense,Bank Transfer,Miscellaneous expense
+2025-11-05,Book Purchase,Education,11696,expense,UPI,Course enrollment
+2026-06-14,Home Decor,Shopping,21533,expense,Net Banking,Online order
+2026-02-17,Monthly Salary,Salary,142842,income,Net Banking,Monthly salary credited
+2026-05-02,Grocery Delivery,Groceries,3035,expense,Wallet,Grocery shopping
+2026-07-21,Music Subscription,Subscriptions,1463,expense,UPI,Monthly subscription
+2026-07-10,Insurance Renewal,Insurance,7901,expense,Debit Card,Premium payment
+2026-03-18,Grocery Delivery,Groceries,794,expense,Credit Card,Vegetables and essentials
+2026-07-22,App Subscription,Subscriptions,595,expense,Debit Card,Monthly subscription
+2026-08-03,Cash Withdrawal,Other,3380,expense,UPI,Miscellaneous expense
+2025-11-08,Streaming Subscription,Subscriptions,1091,expense,Debit Card,Annual plan renewal
+2026-07-26,App Subscription,Subscriptions,1020,expense,Bank Transfer,Monthly subscription
+2026-05-02,Study Material,Education,4380,expense,Debit Card,Course enrollment
+2026-02-23,Monthly Rent,Rent,24571,expense,UPI,Monthly house rent
+2025-11-22,News Subscription,Subscriptions,311,expense,Credit Card,Annual plan renewal
+2026-04-06,Cloud Storage Plan,Subscriptions,910,expense,Debit Card,Monthly subscription
+2026-05-12,Fitness App Subscription,Fitness,1828,expense,UPI,Fitness class
+2026-01-15,Auto Rickshaw,Transport,3812,expense,Debit Card,Ride home
+2026-04-02,Stock Sale Return,Investment,22656,income,Bank Transfer,Investment return credited
+2026-07-19,App Subscription,Subscriptions,1467,expense,Credit Card,Annual plan renewal
+2026-06-25,Investment Return,Investment,29971,income,Bank Transfer,Dividend payout
+2026-05-10,Freelance Payment,Freelance,2471,income,Net Banking,Freelance project payment
+2026-05-08,Monthly Groceries,Groceries,2799,expense,Debit Card,Vegetables and essentials
+2026-08-10,Bowling Night,Entertainment,1251,expense,Cash,Game purchase
+2026-08-11,Gift Received,Other,8982,income,UPI,Refund received
+2026-03-22,Health Insurance Premium,Insurance,6089,expense,Cash,Premium payment
+2026-07-31,Pharmacy,Healthcare,14242,expense,Cash,Health test
+2026-05-25,Streaming Subscription,Subscriptions,1856,expense,UPI,Monthly subscription
+2026-06-18,FD Interest Credit,Investment,17599,income,UPI,Investment return credited
+2026-07-01,Music Subscription,Subscriptions,549,expense,Bank Transfer,Monthly subscription
+2026-01-27,Home Decor,Shopping,11972,expense,Credit Card,Weekend shopping
+2026-03-13,Streaming Subscription,Subscriptions,1259,expense,Credit Card,Monthly subscription
+2026-03-04,DTH Recharge,Bills,2102,expense,UPI,Monthly electricity payment
+2026-01-25,Mall Shopping,Shopping,23504,expense,UPI,Weekend shopping
+2026-05-12,Gym Membership,Fitness,531,expense,Debit Card,Fitness class
+2026-04-28,Music Subscription,Subscriptions,372,expense,Credit Card,Annual plan renewal
+2025-11-03,Personal Trainer,Fitness,1806,expense,Credit Card,Fitness class
+2026-04-17,Juice Bar,Food,2907,expense,Bank Transfer,Quick snack
+2026-04-08,Contract Work Payment,Freelance,2030,income,Bank Transfer,Freelance project payment
+2026-05-24,Movie Tickets,Entertainment,2533,expense,Debit Card,Game purchase
+2025-12-28,Tea Stall,Food,897,expense,UPI,Office lunch
+2025-11-16,Insurance Renewal,Insurance,23216,expense,UPI,Premium payment
+2026-05-24,Doctor Consultation,Healthcare,8611,expense,Debit Card,Health test
+2026-07-20,FD Interest Credit,Investment,11863,income,UPI,Dividend payout
+2026-04-28,Cosmetics Purchase,Personal Care,2683,expense,Debit Card,Salon appointment
+2025-11-28,Bonus Payment,Other,15929,income,UPI,Cashback received
+2025-10-23,Client Payment,Freelance,16631,income,Bank Transfer,Client payment received
+2026-01-29,Maintenance Charge,Utilities,3781,expense,UPI,Monthly maintenance
+2026-06-05,Doctor Consultation,Healthcare,5076,expense,Cash,Routine checkup
+2026-04-19,Insurance Renewal,Insurance,17066,expense,UPI,Premium payment
+2025-10-26,Contract Work Payment,Freelance,17243,income,Bank Transfer,Freelance project payment
+2026-06-29,Course Fee,Education,13674,expense,UPI,Course enrollment
+2026-04-03,Health Checkup,Healthcare,776,expense,Bank Transfer,Medical purchase
+2026-06-21,Laptop Accessory,Electronics,13310,expense,Credit Card,Gadget purchase
+2025-11-08,Gadget Purchase,Electronics,75122,expense,UPI,Gadget purchase
+2026-07-28,Mall Shopping,Shopping,3164,expense,UPI,New outfit
+2025-11-21,Skincare Purchase,Personal Care,2976,expense,Net Banking,Self-care purchase
+2026-03-19,Contract Work Payment,Freelance,25055,income,Bank Transfer,Client payment received
+2026-05-26,Gas Bill,Bills,3355,expense,Debit Card,Recharge for the month
+2026-05-30,App Subscription,Subscriptions,972,expense,UPI,Monthly subscription
+2025-12-16,Gaming Purchase,Entertainment,4898,expense,Credit Card,Game purchase
+2025-11-26,House Rent Payment,Rent,39402,expense,Wallet,Monthly house rent
+2026-06-19,Cash Withdrawal,Other,964,expense,UPI,Cash withdrawal
+2026-04-02,Cosmetics Purchase,Personal Care,1783,expense,Credit Card,Self-care purchase
+2026-03-29,Donation,Other,3697,expense,Net Banking,Miscellaneous expense
+2025-10-16,Life Insurance Premium,Insurance,14071,expense,Cash,Premium payment
+2026-05-30,Event Tickets,Entertainment,1428,expense,Bank Transfer,Weekend outing
+2025-12-06,Barber Shop,Personal Care,745,expense,UPI,Salon appointment
+2026-03-17,Monthly Salary,Salary,122781,income,UPI,Monthly salary credited
+2026-02-22,Cloud Storage Plan,Subscriptions,472,expense,UPI,Monthly subscription
+2026-05-10,Tuition Fee,Education,2125,expense,Cash,Exam fee payment
+2026-06-14,Maintenance Charge,Utilities,2154,expense,UPI,Monthly maintenance
+2026-07-31,Clothing Store,Shopping,1268,expense,UPI,Festive shopping
+2025-12-13,Society Maintenance,Utilities,2268,expense,UPI,Monthly maintenance
+2026-08-03,Mobile Recharge,Bills,7848,expense,Bank Transfer,Monthly electricity payment
+2025-10-24,Online Shopping,Shopping,6507,expense,Credit Card,Gift for friend
+2026-03-02,Lab Test,Healthcare,13768,expense,Bank Transfer,Doctor visit
+2026-04-25,Cloud Storage Plan,Subscriptions,322,expense,Credit Card,Annual plan renewal
+2026-03-24,Freelance Payment,Freelance,24646,income,Bank Transfer,Client payment received
+2025-10-31,Grocery Delivery,Groceries,2218,expense,Debit Card,Vegetables and essentials
+2026-08-05,News Subscription,Subscriptions,1412,expense,Bank Transfer,Annual plan renewal
+2026-01-13,Music Subscription,Subscriptions,1080,expense,Credit Card,Monthly subscription
+2026-02-17,Streaming Subscription,Subscriptions,515,expense,UPI,Annual plan renewal
+2025-10-17,Monthly Salary,Salary,117377,income,Bank Transfer,Monthly salary credited
+2025-12-03,Gaming Purchase,Entertainment,348,expense,Wallet,Movie night
+2026-03-28,Accessory Purchase,Shopping,8151,expense,Debit Card,Gift for friend
+2025-12-29,Client Payment,Freelance,2851,income,Bank Transfer,Freelance project payment
+2025-10-31,News Subscription,Subscriptions,535,expense,UPI,Annual plan renewal
+2026-03-18,Book Purchase,Education,2889,expense,Cash,Course enrollment
+2026-06-29,Life Insurance Premium,Insurance,23394,expense,Cash,Policy renewal
+2025-10-16,Sports Equipment,Fitness,2374,expense,Wallet,Fitness class
+2026-07-23,Monthly Rent,Rent,42982,expense,Bank Transfer,Monthly house rent
+2026-06-23,App Subscription,Subscriptions,920,expense,Debit Card,Monthly subscription
+2026-02-11,Freelance Project Payment,Freelance,15355,income,UPI,Freelance project payment
+2026-05-02,News Subscription,Subscriptions,828,expense,Bank Transfer,Monthly subscription
+2026-05-15,Barber Shop,Personal Care,1666,expense,UPI,Self-care purchase
+2026-04-15,Stock Sale Return,Investment,5281,income,Bank Transfer,Investment return credited
+2026-04-05,Dividend Received,Investment,27439,income,Bank Transfer,Dividend payout
+2026-06-03,Parking Fee,Transport,1505,expense,UPI,Ride home
+2026-06-16,Internet Bill,Utilities,1235,expense,Cash,Monthly maintenance
+2026-02-16,House Rent Payment,Rent,16866,expense,UPI,Rent payment
+2026-02-15,Monthly Salary,Salary,60625,income,Bank Transfer,Monthly salary credited
+2025-11-18,Music Subscription,Subscriptions,1294,expense,UPI,Annual plan renewal
+2026-04-11,Life Insurance Premium,Insurance,13872,expense,UPI,Policy renewal
+2026-04-28,Gym Membership,Fitness,4763,expense,Net Banking,Fitness class
+2025-12-13,Fitness App Subscription,Fitness,4305,expense,UPI,Fitness class
+2026-01-18,Gym Membership,Fitness,1982,expense,UPI,Fitness class
+2026-03-31,Life Insurance Premium,Insurance,1593,expense,Credit Card,Policy renewal
+2026-05-25,App Subscription,Subscriptions,616,expense,Bank Transfer,Monthly subscription
+2026-07-21,Monthly Rent,Rent,24472,expense,Net Banking,Monthly house rent
+2026-04-07,Fitness App Subscription,Fitness,441,expense,UPI,Fitness class
+2025-12-23,Gaming Purchase,Entertainment,4663,expense,Debit Card,Concert night
+2026-07-16,Investment Return,Investment,28234,income,UPI,Investment return credited
+2026-05-08,App Subscription,Subscriptions,597,expense,Debit Card,Annual plan renewal
+2025-10-21,Study Material,Education,10590,expense,UPI,Exam fee payment
+2026-06-25,Vehicle Insurance,Insurance,23124,expense,Bank Transfer,Premium payment
+2026-03-23,Insurance Renewal,Insurance,10006,expense,UPI,Premium payment
+2026-02-22,Electronics Store,Electronics,4557,expense,Debit Card,Accessory replacement
+2026-01-11,Monthly Salary,Salary,148680,income,Net Banking,Monthly salary credited
