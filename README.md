@@ -6,6 +6,10 @@
   />
 </p>
 
+## 🚀 About SpendLog AI
+
+SpendLog AI is an intelligent expense tracking and financial intelligence platform designed to help users monitor spending, analyze financial patterns, manage budgets, and gain AI-powered insights.
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/hemnath-kandasamyk/SpendLog-AI/refs/heads/main/src/assets/images/spendlog_ai_logo_1786685940362.jpg" alt="SpendLog AI Logo" width="150">
 </p>
