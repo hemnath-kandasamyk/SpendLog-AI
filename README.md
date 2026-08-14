@@ -1,4 +1,10 @@
-# 💰 SpendLog AI — Intelligent Expense Tracker & Financial Intelligence Dashboard
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/hemnath-kandasamyk/SpendLog-AI/refs/heads/main/docs/title_page.jpg"
+    alt="SpendLog AI — Agentic Expense Tracking & Financial Intelligence Platform"
+    width="100%"
+  />
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/hemnath-kandasamyk/SpendLog-AI/refs/heads/main/src/assets/images/spendlog_ai_logo_1786685940362.jpg" alt="SpendLog AI Logo" width="150">
