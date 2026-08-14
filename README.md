@@ -1,5 +1,11 @@
 # SpendLog AI — Agentic Expense Tracker Frontend
 
+<p align="center">
+  <a href="https://spend-log-ai.vercel.app/#login" target="_blank">
+    <strong>🚀 View SpendLog AI Live</strong>
+  </a>
+</p>
+
 A production-grade, futuristic AI-powered FinTech expense tracker and financial intelligence dashboard built strictly with **Vanilla JavaScript (ES Modules), HTML5, and Modular CSS3** (No frontend framework dependencies).
 
 ---
